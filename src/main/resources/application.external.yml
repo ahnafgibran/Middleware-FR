@@ -1,0 +1,4 @@
+spring:
+  config:
+    import: "file:application.yml"
+    #import: "file:C://DATA//2024_GRIT_PROJECT//FR_BAHARKAM_NEW_REPO//fr-baharkam-backend//application.yml"

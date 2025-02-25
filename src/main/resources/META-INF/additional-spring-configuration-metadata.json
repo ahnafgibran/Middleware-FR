@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "name": "facereco.engine.extract.url",
+      "type": "java.lang.String",
+      "description": "URL or IP Address of Image Extraction engine server"
+    },
+    {
+      "name": "facereco.engine.extract.port",
+      "type": "java.lang.String",
+      "description": "Port of Image Extraction engine server"
+    },
+    {
+      "name": "facereco.engine.ident.url",
+      "type": "java.lang.String",
+      "description": "URL or IP Address of Image Identification engine server"
+    },
+    {
+      "name": "facereco.engine.ident.port",
+      "type": "java.lang.String",
+      "description": "Port of Image Identification engine server"
+    },
+    {
+      "name": "facereco.engine.max-timeout",
+      "type": "java.lang.String",
+      "description": "Face recognition engine request maximum timeout in second."
+    },
+    {
+      "name": "penyimpanan_video.storage.location",
+      "type": "java.lang.String",
+      "description": "Folder for video storage"
+    }
+  ]
+}
